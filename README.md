@@ -1,9 +1,9 @@
 # Hi 👋, I'm Thomas Yip 
 
 ### Passionate about computer science, AI (LLM, VLM, Agentic AI) and Physical AI (VLA and Robotics).
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thomas-Yip&label=Profile%20views&color=0e75b6&style=flat" alt="Thomas-Yip" /> </p>
-
+-->
 - 📫 How to reach me **chihoyip074@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
