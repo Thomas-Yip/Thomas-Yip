@@ -10,8 +10,6 @@
 <p align="left">
 <a href="https://github.com/Thomas-Yip" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Thomas-Yip" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chi-ho-yip-938864290" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chi-ho-yip-938864290" height="30" width="40" /></a>
-<a href="https://kaggle.com/yipchiho" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yipchiho" height="30" width="40" /></a>
-<a href="https://leetcode.com/tom074" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tom074" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
