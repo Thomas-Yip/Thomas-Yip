@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thomas-Yip&label=Profile%20views&color=0e75b6&style=flat" alt="Thomas-Yip" /> </p>
 -->
 - 📫 How to reach me **chihoyip074@gmail.com**
+- 👤 Visit my [page](https://thomas-yip.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
